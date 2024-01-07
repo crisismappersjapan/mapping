@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="PolyStyle1">
+  <IconStyle>
+  <Icon>
+  <href>https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png</href>
+  </Icon>
+  <scale>1</scale>
+  </IconStyle>
+</Style>
+<Placemark>
+<name>01旧西保小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>1</td></tr><tr><td>lon</td><td>136.8955922</td></tr><tr><td>lat</td><td>37.3960847</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.8955922,37.3960847</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>02旧輪島中学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>2</td></tr><tr><td>lon</td><td>136.889348</td></tr><tr><td>lat</td><td>37.38287197</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.889348,37.38287197</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>03健康ふれあい広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>3</td></tr><tr><td>lon</td><td>136.9125438</td></tr><tr><td>lat</td><td>37.38133744</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9125438,37.38133744</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>04三井地区運動広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>4</td></tr><tr><td>lon</td><td>136.8139458</td></tr><tr><td>lat</td><td>37.38302542</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.8139458,37.38302542</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>05農村ふれあい広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>5</td></tr><tr><td>lon</td><td>136.9695675</td></tr><tr><td>lat</td><td>37.41083307</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9695675,37.41083307</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>06鵠巣公民館グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>6</td></tr><tr><td>lon</td><td>137.0778212</td></tr><tr><td>lat</td><td>37.43854158</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.0778212,37.43854158</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>10門前総合運動公園</name>
+<description><![CDATA[ <table><tr><td>id</td><td>7</td></tr><tr><td>lon</td><td>136.7085454</td></tr><tr><td>lat</td><td>37.23118983</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7085454,37.23118983</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>07町野グラウンドゴルフ場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>8</td></tr><tr><td>lon</td><td>136.7444515</td></tr><tr><td>lat</td><td>37.28825806</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7444515,37.28825806</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>13鳳至小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>9</td></tr><tr><td>lon</td><td>136.7599225</td></tr><tr><td>lat</td><td>37.29149734</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7599225,37.29149734</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12杉平消防署前</name>
+<description><![CDATA[ <table><tr><td>id</td><td>10</td></tr><tr><td>lon</td><td>136.7499689</td></tr><tr><td>lat</td><td>37.34282226</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7499689,37.34282226</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>08旧仁岸小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>11</td></tr><tr><td>lon</td><td>136.7383282</td></tr><tr><td>lat</td><td>37.28672319</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7383282,37.28672319</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>09道下農村公園</name>
+<description><![CDATA[ <table><tr><td>id</td><td>12</td></tr><tr><td>lon</td><td>137.0338808</td></tr><tr><td>lat</td><td>37.43248344</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.0338808,37.43248344</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>11旧七浦小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>13</td></tr><tr><td>lon</td><td>137.0892147</td></tr><tr><td>lat</td><td>37.42156071</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.0892147,37.42156071</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>15門前グラウンドゴルフ場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>14</td></tr><tr><td>lon</td><td>136.8655775</td></tr><tr><td>lat</td><td>37.35602712</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.8655775,37.35602712</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>18二俣小学校グラウンドゴルフ場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>15</td></tr><tr><td>lon</td><td>136.7982758</td></tr><tr><td>lat</td><td>37.30576237</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7982758,37.30576237</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>19門前浦上グラウンドゴルフ場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>16</td></tr><tr><td>lon</td><td>136.906123</td></tr><tr><td>lat</td><td>37.39623727</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.906123,37.39623727</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>14大屋小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>17</td></tr><tr><td>lon</td><td>136.9023026</td></tr><tr><td>lat</td><td>37.31562686</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9023026,37.31562686</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>16旧南志見小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>18</td></tr><tr><td>lon</td><td>136.908874</td></tr><tr><td>lat</td><td>37.35718256</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.908874,37.35718256</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>17町野小学校グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>19</td></tr><tr><td>lon</td><td>136.9028014</td></tr><tr><td>lat</td><td>37.39716189</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9028014,37.39716189</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>20キリコ会館多目的広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>20</td></tr><tr><td>lon</td><td>136.9077957</td></tr><tr><td>lat</td><td>37.39571288</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9077957,37.39571288</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>21マリンタウン交流広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>21</td></tr><tr><td>lon</td><td>136.9089759</td></tr><tr><td>lat</td><td>37.39655246</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9089759,37.39655246</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22憩いの広場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>22</td></tr><tr><td>lon</td><td>136.9149679</td></tr><tr><td>lat</td><td>37.38753827</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9149679,37.38753827</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>23マリンタウン競技場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>23</td></tr><tr><td>lon</td><td>137.0351095</td></tr><tr><td>lat</td><td>37.42974002</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.0351095,37.42974002</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>23マリンタウン競技場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>24</td></tr><tr><td>lon</td><td>136.9205845</td></tr><tr><td>lat</td><td>37.3929938</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9205845,37.3929938</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>25サンアリーナ駐車場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>25</td></tr><tr><td>lon</td><td>136.921357</td></tr><tr><td>lat</td><td>37.39156176</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.921357,37.39156176</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>26南志見多目的グラウンド（公民館まえ）</name>
+<description><![CDATA[ <table><tr><td>id</td><td>26</td></tr><tr><td>lon</td><td>136.7321861</td></tr><tr><td>lat</td><td>37.2551268</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.7321861,37.2551268</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>27輪島球場</name>
+<description><![CDATA[ <table><tr><td>id</td><td>27</td></tr><tr><td>lon</td><td>136.9011596</td></tr><tr><td>lat</td><td>37.31499814</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9011596,37.31499814</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>28旧輪島高校稲舟校舎グラウンド</name>
+<description><![CDATA[ <table><tr><td>id</td><td>28</td></tr><tr><td>lon</td><td>136.9011492</td></tr><tr><td>lat</td><td>37.3873486</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9011492,37.3873486</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>29ふれあい工房阿岸</name>
+<description><![CDATA[ <table><tr><td>id</td><td>29</td></tr><tr><td>lon</td><td>136.9038153</td></tr><tr><td>lat</td><td>37.38746795</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.9038153,37.38746795</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

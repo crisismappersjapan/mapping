@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.895592,
+          37.396085
+        ]
+      },
+      "properties": {
+        "name": "01旧西保小学校グラウンド",
+        "id": "1",
+        "lon": "136.8955922",
+        "lat": "37.3960847",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.889348,
+          37.382872
+        ]
+      },
+      "properties": {
+        "name": "02旧輪島中学校グラウンド",
+        "id": "2",
+        "lon": "136.889348",
+        "lat": "37.38287197",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.912544,
+          37.381337
+        ]
+      },
+      "properties": {
+        "name": "03健康ふれあい広場",
+        "id": "3",
+        "lon": "136.9125438",
+        "lat": "37.38133744",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.813946,
+          37.383025
+        ]
+      },
+      "properties": {
+        "name": "04三井地区運動広場",
+        "id": "4",
+        "lon": "136.8139458",
+        "lat": "37.38302542",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.969568,
+          37.410833
+        ]
+      },
+      "properties": {
+        "name": "05農村ふれあい広場",
+        "id": "5",
+        "lon": "136.9695675",
+        "lat": "37.41083307",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.077821,
+          37.438542
+        ]
+      },
+      "properties": {
+        "name": "06鵠巣公民館グラウンド",
+        "id": "6",
+        "lon": "137.0778212",
+        "lat": "37.43854158",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.708545,
+          37.23119
+        ]
+      },
+      "properties": {
+        "name": "10門前総合運動公園",
+        "id": "7",
+        "lon": "136.7085454",
+        "lat": "37.23118983",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.744452,
+          37.288258
+        ]
+      },
+      "properties": {
+        "name": "07町野グラウンドゴルフ場",
+        "id": "8",
+        "lon": "136.7444515",
+        "lat": "37.28825806",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.759923,
+          37.291497
+        ]
+      },
+      "properties": {
+        "name": "13鳳至小学校グラウンド",
+        "id": "9",
+        "lon": "136.7599225",
+        "lat": "37.29149734",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.749969,
+          37.342822
+        ]
+      },
+      "properties": {
+        "name": "12杉平消防署前",
+        "id": "10",
+        "lon": "136.7499689",
+        "lat": "37.34282226",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.738328,
+          37.286723
+        ]
+      },
+      "properties": {
+        "name": "08旧仁岸小学校グラウンド",
+        "id": "11",
+        "lon": "136.7383282",
+        "lat": "37.28672319",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.033881,
+          37.432483
+        ]
+      },
+      "properties": {
+        "name": "09道下農村公園",
+        "id": "12",
+        "lon": "137.0338808",
+        "lat": "37.43248344",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.089215,
+          37.421561
+        ]
+      },
+      "properties": {
+        "name": "11旧七浦小学校グラウンド",
+        "id": "13",
+        "lon": "137.0892147",
+        "lat": "37.42156071",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.865578,
+          37.356027
+        ]
+      },
+      "properties": {
+        "name": "15門前グラウンドゴルフ場",
+        "id": "14",
+        "lon": "136.8655775",
+        "lat": "37.35602712",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.798276,
+          37.305762
+        ]
+      },
+      "properties": {
+        "name": "18二俣小学校グラウンドゴルフ場",
+        "id": "15",
+        "lon": "136.7982758",
+        "lat": "37.30576237",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906123,
+          37.396237
+        ]
+      },
+      "properties": {
+        "name": "19門前浦上グラウンドゴルフ場",
+        "id": "16",
+        "lon": "136.906123",
+        "lat": "37.39623727",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902303,
+          37.315627
+        ]
+      },
+      "properties": {
+        "name": "14大屋小学校グラウンド",
+        "id": "17",
+        "lon": "136.9023026",
+        "lat": "37.31562686",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.908874,
+          37.357183
+        ]
+      },
+      "properties": {
+        "name": "16旧南志見小学校グラウンド",
+        "id": "18",
+        "lon": "136.908874",
+        "lat": "37.35718256",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902801,
+          37.397162
+        ]
+      },
+      "properties": {
+        "name": "17町野小学校グラウンド",
+        "id": "19",
+        "lon": "136.9028014",
+        "lat": "37.39716189",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.907796,
+          37.395713
+        ]
+      },
+      "properties": {
+        "name": "20キリコ会館多目的広場",
+        "id": "20",
+        "lon": "136.9077957",
+        "lat": "37.39571288",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.908976,
+          37.396552
+        ]
+      },
+      "properties": {
+        "name": "21マリンタウン交流広場",
+        "id": "21",
+        "lon": "136.9089759",
+        "lat": "37.39655246",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.914968,
+          37.387538
+        ]
+      },
+      "properties": {
+        "name": "22憩いの広場",
+        "id": "22",
+        "lon": "136.9149679",
+        "lat": "37.38753827",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.03511,
+          37.42974
+        ]
+      },
+      "properties": {
+        "name": "23マリンタウン競技場",
+        "id": "23",
+        "lon": "137.0351095",
+        "lat": "37.42974002",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.920585,
+          37.392994
+        ]
+      },
+      "properties": {
+        "name": "23マリンタウン競技場",
+        "id": "24",
+        "lon": "136.9205845",
+        "lat": "37.3929938",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.921357,
+          37.391562
+        ]
+      },
+      "properties": {
+        "name": "25サンアリーナ駐車場",
+        "id": "25",
+        "lon": "136.921357",
+        "lat": "37.39156176",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.732186,
+          37.255127
+        ]
+      },
+      "properties": {
+        "name": "26南志見多目的グラウンド（公民館まえ）",
+        "id": "26",
+        "lon": "136.7321861",
+        "lat": "37.2551268",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90116,
+          37.314998
+        ]
+      },
+      "properties": {
+        "name": "27輪島球場",
+        "id": "27",
+        "lon": "136.9011596",
+        "lat": "37.31499814",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901149,
+          37.387349
+        ]
+      },
+      "properties": {
+        "name": "28旧輪島高校稲舟校舎グラウンド",
+        "id": "28",
+        "lon": "136.9011492",
+        "lat": "37.3873486",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.903815,
+          37.387468
+        ]
+      },
+      "properties": {
+        "name": "29ふれあい工房阿岸",
+        "id": "29",
+        "lon": "136.9038153",
+        "lat": "37.38746795",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    }
+  ]
+}
